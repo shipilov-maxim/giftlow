@@ -1,5 +1,4 @@
 def up_word(word):
-    """возвращает все буквы заглавными"""
     return word.upper()
 
 
